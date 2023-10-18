@@ -29,3 +29,19 @@ console.log(firstName);
 console.log(lastName);
 console.log(fullName);
 
+
+// var is a variable
+// string is a value of a variable
+// ex. (var: variable)(firstName: String)
+// the syntax (console.log) is a function used to print variable
+
+// conventions:
+// all of the writing is in camelCase: e.g firstName
+// end of every statement in Javascript (;) convention
+
+// tips:
+// [ // ] omits / comment in Javascript 
+// command K + C (on keyboard) will omit/comment strings or statements 
+// White space [enter, space and tab] do not matter 
+
+
